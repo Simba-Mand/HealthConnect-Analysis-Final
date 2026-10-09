@@ -64,8 +64,7 @@ Python (pandas, NumPy, SciPy, statsmodels, matplotlib) · Jupyter · Power BI De
 │            HealthConnect_DataScience_Feature_Recommendations.csv
 ├── week7/   testing and refinement notebook, report, project summary
 ├── week8/   final analytics notebook, report, executive summary, presentation
-├── powerbi/ build guide, Page 1 screenshot
-├── tableau/ build guide
+├── powerbi/ dashboard
 └── README.md
 ```
 
